@@ -1,0 +1,74 @@
+{
+  "namespace": "DocsSite",
+  "fsNamespace": "docssite",
+  "loader": "../docssite.js",
+  "core": "docssite.dxmw2dld.js",
+  "corePolyfilled": "docssite.fmis9o0d.js",
+  "components": {
+    "footer-bar": {
+      "bundleIds": {
+        "$": "bhfmyfdt"
+      }
+    },
+    "header-bar": {
+      "bundleIds": {
+        "$": "eopjh5l9"
+      }
+    },
+    "icon-list": {
+      "bundleIds": {
+        "$": "xjamghz5"
+      }
+    },
+    "icon-search": {
+      "bundleIds": {
+        "$": "e6c2o9g1"
+      }
+    },
+    "ionicons-site": {
+      "bundleIds": {
+        "$": "eopjh5l9"
+      }
+    },
+    "landing-page": {
+      "bundleIds": {
+        "$": "xjamghz5"
+      }
+    },
+    "notfound-page": {
+      "bundleIds": {
+        "$": "fonk1mfi"
+      }
+    },
+    "stencil-route": {
+      "bundleIds": {
+        "$": "eopjh5l9"
+      }
+    },
+    "stencil-route-link": {
+      "bundleIds": {
+        "$": "zkf4jnqe"
+      }
+    },
+    "stencil-route-switch": {
+      "bundleIds": {
+        "$": "eopjh5l9"
+      }
+    },
+    "stencil-router": {
+      "bundleIds": {
+        "$": "eopjh5l9"
+      }
+    },
+    "toast-bar": {
+      "bundleIds": {
+        "$": "xjamghz5"
+      }
+    },
+    "usage-page": {
+      "bundleIds": {
+        "$": "hn2wuddg"
+      }
+    }
+  }
+}
